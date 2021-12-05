@@ -1,0 +1,6 @@
+{
+    "name": "ckdev/responseformat",
+    "description": "It is about response format of rest API from Laravel",
+    "minimum-stability": "dev",
+    "require": {}
+}
